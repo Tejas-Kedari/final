@@ -1,10 +1,20 @@
 {
   "files": {
-    "main.js": "/final/static/js/main.0450d18d.js",
+    "main.js": "/final/static/js/main.173d6fe0.js",
     "static/media/resume.jpg": "/final/static/media/resume.b06c3f66ebaaefb89d6f.jpg",
+    "static/media/brwhms.jpg": "/final/static/media/brwhms.36dbf72bbce5c1263057.jpg",
+    "static/media/disney.jpg": "/final/static/media/disney.3471797c5fa04a61844d.jpg",
     "static/media/avatar.jpg": "/final/static/media/avatar.843d8baa260ea496da1f.jpg",
     "static/media/maya-3.jpg": "/final/static/media/maya-3.8bd072e0038a01cb8a47.jpg",
+    "static/media/ecom.jpg": "/final/static/media/ecom.f52c8a54f243dbc70564.jpg",
     "static/media/resume.pdf": "/final/static/media/resume.5be6f577f724ec5f1111.pdf",
+    "static/media/phmc.jpg": "/final/static/media/phmc.c1f725e6e342508caa65.jpg",
+    "static/media/milk.jpg": "/final/static/media/milk.0c879719892a28160735.jpg",
+    "static/media/dwlr.jpg": "/final/static/media/dwlr.e7fc2eb31c621e161071.jpg",
+    "static/media/parceler.jpg": "/final/static/media/parceler.bb5cce479525b36da2fc.jpg",
+    "static/media/realestate.jpg": "/final/static/media/realestate.163ad4cbecc47f4a5640.jpg",
+    "static/media/arg.jpg": "/final/static/media/arg.758aed4690bced92fb72.jpg",
+    "static/media/fm.jpg": "/final/static/media/fm.269e4305706ea2c35e7f.jpg",
     "static/media/maya-1.jpg": "/final/static/media/maya-1.8f18455680e86ffdfe99.jpg",
     "static/media/maya-4.jpg": "/final/static/media/maya-4.98e8029ed991096bb93b.jpg",
     "static/media/WordPress.svg": "/final/static/media/WordPress.baf04e875c6615dec7ca8d30f7ce84bd.svg",
@@ -14,9 +24,9 @@
     "static/media/mobile.svg": "/final/static/media/mobile.fe5ecf761e102dfbff7096197ff3f15f.svg",
     "static/media/Web.svg": "/final/static/media/Web.997674d703ee51aa52daf72db3f1319c.svg",
     "index.html": "/final/index.html",
-    "main.0450d18d.js.map": "/final/static/js/main.0450d18d.js.map"
+    "main.173d6fe0.js.map": "/final/static/js/main.173d6fe0.js.map"
   },
   "entrypoints": [
-    "static/js/main.0450d18d.js"
+    "static/js/main.173d6fe0.js"
   ]
 }

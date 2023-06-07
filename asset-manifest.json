@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/final/static/js/main.173d6fe0.js",
+    "main.js": "/final/static/js/main.5ded0fe5.js",
     "static/media/resume.jpg": "/final/static/media/resume.b06c3f66ebaaefb89d6f.jpg",
     "static/media/brwhms.jpg": "/final/static/media/brwhms.36dbf72bbce5c1263057.jpg",
     "static/media/disney.jpg": "/final/static/media/disney.3471797c5fa04a61844d.jpg",
@@ -24,9 +24,9 @@
     "static/media/mobile.svg": "/final/static/media/mobile.fe5ecf761e102dfbff7096197ff3f15f.svg",
     "static/media/Web.svg": "/final/static/media/Web.997674d703ee51aa52daf72db3f1319c.svg",
     "index.html": "/final/index.html",
-    "main.173d6fe0.js.map": "/final/static/js/main.173d6fe0.js.map"
+    "main.5ded0fe5.js.map": "/final/static/js/main.5ded0fe5.js.map"
   },
   "entrypoints": [
-    "static/js/main.173d6fe0.js"
+    "static/js/main.5ded0fe5.js"
   ]
 }
